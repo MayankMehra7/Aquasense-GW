@@ -56,20 +56,7 @@
 - We aim to revolutionize the well construction process, making it more efficient, cost-effective, and environmentally friendly, ultimately contributing to global water resource 
   sustainability.
 
-# Website 
-![home pg](https://github.com/pawan-cpu/SIH-AI-enabled-Water-Well-Prediction-Model/assets/83719360/7ccddb04-4f17-4563-ac52-e6d1333f4a9d)
 
-![current2](https://github.com/pawan-cpu/SIH-AI-enabled-Water-Well-Prediction-Model/assets/83719360/de8967d8-1e5f-48b3-9b6c-a3ef75fc0f10)
-
-![water3](https://github.com/pawan-cpu/SIH-AI-enabled-Water-Well-Prediction-Model/assets/83719360/ccea7219-a4fe-4a1a-b373-e0df9dc19790)
-
-
-# Visualisation dashboard
-![pie](https://github.com/pawan-cpu/SIH-AI-enabled-Water-Well-Prediction-Model/assets/83719360/bfbd81aa-1821-4f8b-b434-4769997e1317)
-
-![bar](https://github.com/pawan-cpu/SIH-AI-enabled-Water-Well-Prediction-Model/assets/83719360/f67b23b2-9513-4ed4-b11a-95b8d4e50b19)
-
-![balanced line](https://github.com/pawan-cpu/SIH-AI-enabled-Water-Well-Prediction-Model/assets/83719360/93402ccf-68d9-427f-b38f-af492b2192d7)
 
 ## Built With
 - Numpy
@@ -153,6 +140,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Github
 Github :https://github.com/pawan-cpu/SIH-AI-enabled-Water-Well-Prediction-Model
 
-## Try it Out
-https://water-well-predictor-4gtfeehgyxsxkbzxwtd9kf.streamlit.app/
 
